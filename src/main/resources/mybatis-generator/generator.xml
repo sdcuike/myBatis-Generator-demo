@@ -12,8 +12,8 @@
         <!-- 数据库链接URL、用户名、密码 -->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver" 
                         connectionURL="jdbc:mysql://db004.qc.com:3306/demo27_test" 
-                        userId="qc_dev" 
-                        password="712$%^jxj0">
+                        userId="xxx" 
+                        password="xx">
         </jdbcConnection>
         
         <javaTypeResolver>
